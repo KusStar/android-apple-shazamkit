@@ -18,6 +18,6 @@ and:
 
 ```gradle
 dependencies {
-    implementation "com.github.kusstar:apple-shazamkit:0.1.0"
+    implementation 'com.github.KusStar:android-apple-shazamkit:0.1.0'
 }
 ```
